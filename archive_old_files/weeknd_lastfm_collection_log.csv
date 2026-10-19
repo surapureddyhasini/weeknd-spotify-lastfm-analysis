@@ -1,0 +1,4 @@
+kind,query,error
+track,I Was Never There,Last.fm error 6: Track not found
+track,"Reflections Laughing (feat. Travis Scott, Florence + The Machine)",Last.fm error 6: Track not found
+album,Trilogy (bonus),404 Client Error: Not Found for url: https://ws.audioscrobbler.com/2.0/?method=album.getInfo&api_key=c9d4c0028ccb9571820a7551db882910&format=json&artist=The+Weeknd&album=Trilogy+%28bonus%29&autocorrect=1

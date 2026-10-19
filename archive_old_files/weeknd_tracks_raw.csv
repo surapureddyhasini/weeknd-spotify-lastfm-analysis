@@ -1,0 +1,377 @@
+album_id,album,api_album_type,release_date,track_id,track,track_number,disc_number,duration_ms,duration_min,explicit,artists,n_artists
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,5673WA8EEUSPx1ir26lhGW,Wake Me Up (feat. Justice),1,1,308575,5.142916666666666,False,"The Weeknd, Justice",2
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,3AWDeHLc88XogCaCnZQLVI,Cry For Me,2,1,224136,3.7356,True,The Weeknd,1
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,64JIAZ0bS7WoARYfWQGCoz,I Can't Fucking Sing,3,1,12288,0.2048,True,The Weeknd,1
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,7DY756WOLyOz2Xnhw4EFiC,São Paulo (feat. Anitta),4,1,301623,5.02705,True,"The Weeknd, Anitta",2
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,6jDGDtQPC46pFqxph3qdbD,Until We're Skin & Bones,5,1,22033,0.3672166666666667,False,The Weeknd,1
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,5rzI6Jnlhx8DgVgsOLorfW,Baptized In Fear,6,1,232176,3.8696,False,The Weeknd,1
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,0sTBOp1hdayTjw6UOyPyi6,Open Hearts,7,1,234923,3.915383333333333,False,The Weeknd,1
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,4Msr8L0gHGDsLSBlk7pSPU,Opening Night,8,1,96024,1.6004,False,The Weeknd,1
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,2gyHr9WqZeMtzJOpWGuGo6,"Reflections Laughing (feat. Travis Scott, Florence + The Machine)",9,1,291192,4.8532,True,"The Weeknd, Travis Scott, Florence + The Machine",3
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,637oNhilCI9UlkWkUW4Grt,Enjoy The Show (feat. Future),10,1,301428,5.0238,True,"The Weeknd, Future",2
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,0FolPJnYMo71Z7qasTuoJT,Given Up On Me,11,1,354781,5.913016666666667,False,The Weeknd,1
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,0bcZ7xN9IcjSNxLerzR2yl,I Can't Wait To Get There,12,1,188921,3.1486833333333335,True,The Weeknd,1
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,0FIDCNYYjNvPVimz5icugS,Timeless (feat Playboi Carti),13,1,256000,4.266666666666667,True,"The Weeknd, Playboi Carti",2
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,2v0AG62ZHtD3I4YmTb3WYM,Niagara Falls,14,1,277274,4.6212333333333335,True,The Weeknd,1
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,7rVmzyFA7f4rNGl9onF21E,Take Me Back To LA,15,1,253734,4.2289,False,The Weeknd,1
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,4sWQbsLLH2NEbO79DSZCL9,Big Sleep (feat. Giorgio Moroder),16,1,225312,3.7552,False,"The Weeknd, Giorgio Moroder",2
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,0K3w6WNawZlv6Izmsrye8o,Give Me Mercy,17,1,216431,3.6071833333333334,False,The Weeknd,1
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,6i5fDaCzwxRrZtuvvcqoIf,Drive,18,1,188645,3.144083333333333,False,The Weeknd,1
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,5ZDKPFRZC6QlJpf8bCIXTs,The Abyss (feat. Lana Del Rey),19,1,282873,4.71455,False,"The Weeknd, Lana Del Rey",2
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,717s9KFmHhyy5t3xkStS56,Red Terror,20,1,231860,3.864333333333333,False,The Weeknd,1
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,6n6GfXu4i22rdsmRKe2eIn,Without a Warning,21,1,297525,4.95875,False,The Weeknd,1
+3OxfaVgvTxUTy7276t7SPU,Hurry Up Tomorrow,album,2025-01-31,4TDPlp7OSOjuDU3l7PCM04,Hurry Up Tomorrow,22,1,291486,4.8581,False,The Weeknd,1
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,76yLBykniz0SSNv0jj17M2,Starboy (feat. Daft Punk),1,1,230461,3.8410166666666665,True,"The Weeknd, Daft Punk",2
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,6fSvz9yrQY407xmr7cdjuA,Party Monster,2,1,249207,4.15345,True,The Weeknd,1
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,4k47x4UkxG215nFLMFna8A,False Alarm,3,1,220308,3.6718,False,The Weeknd,1
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,4zHa39io9pjsiAE6LwM2NH,Reminder,4,1,218879,3.6479833333333334,True,The Weeknd,1
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,3mynPhglTz2Ggh8SxA34kR,Rockin’,5,1,232881,3.88135,True,The Weeknd,1
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,36K5mnqwfxGS0rvxz7FPyq,Secrets,6,1,265607,4.426783333333334,False,The Weeknd,1
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,2QRvliBEcGIEgTrjVfxmXo,True Colors,7,1,206034,3.4339,False,The Weeknd,1
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,3CktmDvZGj21m3pNFj5Lr3,Stargirl Interlude (feat. Lana Del Rey),8,1,111611,1.8601833333333333,False,"The Weeknd, Lana Del Rey",2
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,3r5lHFACTti0w2REN5tcrn,Sidewalks (feat. Kendrick Lamar),9,1,231357,3.85595,True,"The Weeknd, Kendrick Lamar",2
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,4QYEtbfsqusrXN5A49LG53,Six Feet Under,10,1,237576,3.9596,True,The Weeknd,1
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,5ejT19NfiINj4cFmjRHwAC,Love To Lay,11,1,223301,3.7216833333333335,False,The Weeknd,1
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,5HFQB9ENLGBHTci7xPmLk6,A Lonely Night,12,1,220170,3.6695,False,The Weeknd,1
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,2DsrtZoRxeHdCSGRlQVQtj,Attention,13,1,197649,3.29415,True,The Weeknd,1
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,09mBPwUMt1TXNtneqvmZZ5,Ordinary Life,14,1,221913,3.69855,False,The Weeknd,1
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,3iPmwJh56xbDF7Xduimf0d,Nothing Without You,15,1,198654,3.3109,False,The Weeknd,1
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,3Xz0rSC29WbaobyJQfeYsp,All I Know (feat. Future),16,1,321031,5.350516666666667,True,"The Weeknd, Future",2
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,0awWj9Wzj375IL5etqa1Dk,Die For You,17,1,260255,4.337583333333333,False,The Weeknd,1
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,0yi180gAOIJhcRo7wY4Htl,I Feel It Coming (feat. Daft Punk),18,1,269176,4.486266666666666,False,"The Weeknd, Daft Punk",2
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,4W4fNrZYkobj539TOWsLO2,Die For You (with Ariana Grande) - Remix,19,1,232857,3.88095,False,"The Weeknd, Ariana Grande",2
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,3DCc4HPrVukBeaDGe3Cosk,Starboy (feat. Daft Punk) - Kygo Remix,20,1,244720,4.078666666666667,True,"The Weeknd, Daft Punk, Kygo",3
+35dut3ICqF3NEDkjxfzJJ1,Starboy (Deluxe),album,2023-03-14,2rlEZYWZFE84YTbrwypBr0,Reminder (feat. A$AP Rocky & Young Thug) - Remix,21,1,221968,3.6994666666666665,True,"The Weeknd, A$AP Rocky, Young Thug",3
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,7HX1VOiPj1oMlgZ3OQ92B6,Intro - Live,1,1,95813,1.5968833333333334,False,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,2evYKtXNAdn60ANNEdjH7V,Alone Again - Live,2,1,167253,2.78755,True,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,2h3ZotklPN6aD7OuHz7bFZ,Gasoline - Live,3,1,195635,3.2605833333333334,False,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,7skxtd9x0d05fjz4D7w3t2,Sacrifice - Live,4,1,263240,4.387333333333333,True,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,72SxWvaYsDgix2N3sjCjT1,How Do I Make You Love Me? - Live,5,1,209040,3.484,False,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,47vfGRaXEGzcM2vI7JC2OO,Can't Feel My Face - Live,6,1,183888,3.0648,False,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,02YlAvsmptN8LisZqrWBIb,Take My Breath - Live,7,1,235966,3.9327666666666667,False,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,45ypYpAdgoneWcBT0Wba3p,Hurricane - Live,8,1,127527,2.12545,False,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,6N8W7Dbcsg9tRDxn0wjFkR,The Hills - Live,9,1,185361,3.08935,True,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,3kdEGx81MR9ftxRbF3Zf84,Often - Live,10,1,148878,2.4813,True,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,03H6iCycyxfB2mZzIOEeKJ,Crew Love - Live,11,1,113460,1.891,True,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,4ZYGm4xWPhsZVijqtpWn4C,Starboy - Live,12,1,245818,4.096966666666667,True,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,0WrIAsGJOei2FGeakvpTDU,Heartless - Live,13,1,124255,2.0709166666666667,True,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,431r2Qg4I2qFIKdSFCJN4s,Low Life - Live,14,1,107256,1.7876,True,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,6tB01QHgH9YuVA8TomAzni,Or Nah - Live,15,1,101450,1.6908333333333334,True,"The Weeknd, Ty Dolla $ign",2
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,2YI8oiiImLkZvVgP33xrjD,Kiss Land - Live,16,1,110315,1.8385833333333332,True,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,6knNhL3mIaackJvtjmUrfN,Party Monster - Live,17,1,189883,3.1647166666666666,True,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,5RlqhZfTao31aQUO2QjpkG,Faith - Live,18,1,185016,3.0836,True,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,7HK0ZDEsW0lGKKIVYvni2z,After Hours - Live,19,1,267912,4.4652,False,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,6XZ8C5etRn0kiS1wwuW0SO,Out of Time - Live,20,1,200934,3.3489,False,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,3RSmW13mK3HbkeuHSA4o4E,I Feel It Coming - Live,21,1,234114,3.9019,False,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,4oGnKXq6cIXoE7gfEbh5Ax,Die For You - Live,22,1,193394,3.2232333333333334,True,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,1um00PH48BzDbULgyQyRUA,Is There Someone Else? - Live,23,1,237904,3.9650666666666665,False,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,1occCbgg7oAWF7lMCEAk2T,I Was Never There - Live,24,1,137149,2.285816666666667,False,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,0naqCl6Bckx9qO6gtyoXLm,Wicked Games - Live,25,1,143082,2.3847,True,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,10OyIs6KCOmDO19J5wWFPx,Call Out My Name - Live,26,1,242899,4.048316666666667,False,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,3Tz5B0wTyLdz4jE8LgYA3J,The Morning - Live,27,1,199802,3.330033333333333,True,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,52RgkUwQNKjh3iHhxV3rfZ,Save Your Tears - Live,28,1,178187,2.9697833333333334,True,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,0ijIG2j6oRSMDk5Zp91xXt,Less Than Zero - Live,29,1,244479,4.07465,True,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,5OGxg1400HmCYVRHuccZWw,Blinding Lights - Live,30,1,253365,4.22275,True,The Weeknd,1
+1OARrXe5sB0gyy3MhQ8h92,Live At SoFi Stadium,album,2023-03-03,73H5bn2SKYkMHBPvWGZDcu,Outro - Live,31,1,199781,3.3296833333333336,True,The Weeknd,1
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,3gj1hwjku4JaoamjJVqIIl,Dawn FM,1,1,96240,1.604,False,The Weeknd,1
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,6Uj2XaahtYXK2WeD7GGwBY,Gasoline,2,1,212165,3.5360833333333335,False,The Weeknd,1
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,3kOtREqmcGaEA2KhqffFnw,How Do I Make You Love Me?,3,1,214214,3.5702333333333334,False,The Weeknd,1
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,3WXyY2PxX88kpBtB0GH61w,Take My Breath,4,1,339023,5.650383333333333,False,The Weeknd,1
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,0xa4hvXeYHRRNhA7wBfUar,Sacrifice,5,1,188918,3.148633333333333,True,The Weeknd,1
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,23iLEDPEJpcfYOw1tVhd2o,A Tale By Quincy,6,1,96214,1.6035666666666666,True,The Weeknd,1
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,25C86uEjQ0fjj3bvsxIusO,Out of Time,7,1,214190,3.5698333333333334,False,The Weeknd,1
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,0khQeEwEv6GndVypzpGOG5,"Here We Go… Again (feat. Tyler, the Creator)",8,1,209777,3.4962833333333334,True,"The Weeknd, Tyler, The Creator",2
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,4cm7Ap6IWH6m8JyB9IXT3x,Best Friends,9,1,163504,2.7250666666666667,False,The Weeknd,1
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,37zcCimcUGurQoLEAuN8nR,Is There Someone Else?,10,1,199111,3.3185166666666666,False,The Weeknd,1
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,2022B8GxEstpvibwgbJ15s,Starry Eyes,11,1,148000,2.466666666666667,False,The Weeknd,1
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,7q9Sr5kCkha0L49GAQctHl,Every Angel is Terrifying,12,1,167255,2.7875833333333335,False,The Weeknd,1
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,3TVnaEVbUBFmWYk9IOIwRo,Don’t Break My Heart,13,1,205469,3.4244833333333333,False,The Weeknd,1
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,7p2wRa4m9KVXEXUlkJLhUi,I Heard You're Married (feat. Lil Wayne),14,1,263641,4.3940166666666665,True,"The Weeknd, Lil Wayne",2
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,02w1rM6spvEcbFxd63xCl2,Less Than Zero,15,1,211814,3.5302333333333333,False,The Weeknd,1
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,0DvtQkuaV0VrSHgb5pwRke,Phantom Regret by Jim,16,1,179580,2.993,False,The Weeknd,1
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,1S9DHKpS73KFVN7nnIql3f,Moth To A Flame (with The Weeknd),17,1,234000,3.9,False,"Swedish House Mafia, The Weeknd",2
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,1Jz0fAhw41suiAVekjAoLi,Dawn FM - OPN Remix,18,1,183827,3.0637833333333333,False,"The Weeknd, Oneohtrix Point Never",2
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,2urqWNGpjl07PLAafoa5nT,How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix,19,1,217766,3.6294333333333335,False,"The Weeknd, Sebastian Ingrosso, Salvatore Ganacci",3
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,0QE33jkiMTzCI8momkDmQY,Sacrifice (Remix) (feat. Swedish House Mafia),20,1,238032,3.9672,True,"The Weeknd, Swedish House Mafia",2
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,6yuRNAxPh712eIib8UPI6U,Out of Time - KAYTRANADA Remix,21,1,275555,4.592583333333334,False,"The Weeknd, KAYTRANADA",2
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,6I5gj0D4OEScl48BPFR0J1,Best Friends - Remix,22,1,175071,2.91785,False,"The Weeknd, Summer Walker",2
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,5T0ZsRG7hVgXeffepN8Kmk,Starry Eyes - MIKE DEAN Remix,23,1,198222,3.3037,False,"The Weeknd, MIKE DEAN",2
+12INlMsFtBjyehNnawBv36,Dawn FM (Alternate World),album,2022-01-07,3nUHfbfj1cpnn8ZjS4tNDW,Take My Breath - Single Version,24,1,220196,3.6699333333333333,False,The Weeknd,1
+2nLOHgzXzwFEpl62zAgCEC,Dawn FM,album,2022-01-06,6krYS8KtmNAYyb5uTZiYW4,Dawn FM,1,1,96240,1.604,False,The Weeknd,1
+2nLOHgzXzwFEpl62zAgCEC,Dawn FM,album,2022-01-06,3KyKxJ4P3pVCgaZwaq2rUC,Gasoline,2,1,212165,3.5360833333333335,False,The Weeknd,1
+2nLOHgzXzwFEpl62zAgCEC,Dawn FM,album,2022-01-06,2Ghp894n1laIf2w98VeAOJ,How Do I Make You Love Me?,3,1,214214,3.5702333333333334,False,The Weeknd,1
+2nLOHgzXzwFEpl62zAgCEC,Dawn FM,album,2022-01-06,2vgUijXOTRMnWXDtvgMp2b,Take My Breath,4,1,339023,5.650383333333333,False,The Weeknd,1
+2nLOHgzXzwFEpl62zAgCEC,Dawn FM,album,2022-01-06,1nH2PkJL1XoUq8oE6tBZoU,Sacrifice,5,1,188918,3.148633333333333,True,The Weeknd,1
+2nLOHgzXzwFEpl62zAgCEC,Dawn FM,album,2022-01-06,759ndr57jb0URg4j9YSWml,A Tale By Quincy,6,1,96232,1.6038666666666668,True,The Weeknd,1
+2nLOHgzXzwFEpl62zAgCEC,Dawn FM,album,2022-01-06,2SLwbpExuoBDZBpjfefCtV,Out of Time,7,1,214193,3.5698833333333333,False,The Weeknd,1
+2nLOHgzXzwFEpl62zAgCEC,Dawn FM,album,2022-01-06,1NhjYYcYTRywc0di98xHxf,"Here We Go… Again (feat. Tyler, the Creator)",8,1,209777,3.4962833333333334,True,"The Weeknd, Tyler, The Creator",2
+2nLOHgzXzwFEpl62zAgCEC,Dawn FM,album,2022-01-06,1E5Xu8dur0fAjSP1VpVhAZ,Best Friends,9,1,163504,2.7250666666666667,False,The Weeknd,1
+2nLOHgzXzwFEpl62zAgCEC,Dawn FM,album,2022-01-06,0mL82sxCRjrs3br407IdJh,Is There Someone Else?,10,1,199111,3.3185166666666666,False,The Weeknd,1
+2nLOHgzXzwFEpl62zAgCEC,Dawn FM,album,2022-01-06,6zzdyvVWjGrQBraSvuqJPY,Starry Eyes,11,1,148000,2.466666666666667,False,The Weeknd,1
+2nLOHgzXzwFEpl62zAgCEC,Dawn FM,album,2022-01-06,3vJcz8exedHCjQ9ed95NqU,Every Angel is Terrifying,12,1,167255,2.7875833333333335,False,The Weeknd,1
+2nLOHgzXzwFEpl62zAgCEC,Dawn FM,album,2022-01-06,6a4GH1gljLL7VvmO9u5O92,Don’t Break My Heart,13,1,205469,3.4244833333333333,False,The Weeknd,1
+2nLOHgzXzwFEpl62zAgCEC,Dawn FM,album,2022-01-06,5XbA7TAqsD0fj0dGBrbb0D,I Heard You’re Married (feat. Lil Wayne),14,1,263641,4.3940166666666665,True,"The Weeknd, Lil Wayne",2
+2nLOHgzXzwFEpl62zAgCEC,Dawn FM,album,2022-01-06,2D4dV2KXDTszzJ3p3cFqhA,Less Than Zero,15,1,211814,3.5302333333333333,False,The Weeknd,1
+2nLOHgzXzwFEpl62zAgCEC,Dawn FM,album,2022-01-06,1NlK2NtpuUazpziLhnJwEV,Phantom Regret by Jim,16,1,179580,2.993,False,The Weeknd,1
+4yP0hdKOZPNshxUOjY0cZj,After Hours,album,2020-03-20,6b5P51m8xx2XA6U7sdNZ5E,Alone Again,1,1,250053,4.16755,True,The Weeknd,1
+4yP0hdKOZPNshxUOjY0cZj,After Hours,album,2020-03-20,2K9Ovn1o2bTGqbsABGC6m3,Too Late,2,1,239973,3.99955,True,The Weeknd,1
+4yP0hdKOZPNshxUOjY0cZj,After Hours,album,2020-03-20,6kWxIqQDsKFYCJGbU4AjCX,Hardest To Love,3,1,211400,3.5233333333333334,True,The Weeknd,1
+4yP0hdKOZPNshxUOjY0cZj,After Hours,album,2020-03-20,4BGZF4oLbTL0pWm7C18pbv,Scared To Live,4,1,191306,3.1884333333333332,True,The Weeknd,1
+4yP0hdKOZPNshxUOjY0cZj,After Hours,album,2020-03-20,3WlbeuhfRSqU7ylK2Ui5U7,Snowchild,5,1,247186,4.119766666666667,True,The Weeknd,1
+4yP0hdKOZPNshxUOjY0cZj,After Hours,album,2020-03-20,1sOW4PuG5X3Ie3EXUhAopJ,Escape From LA,6,1,355960,5.932666666666667,True,The Weeknd,1
+4yP0hdKOZPNshxUOjY0cZj,After Hours,album,2020-03-20,6bnF93Rx87YqUBLSgjiMU8,Heartless,7,1,198266,3.3044333333333333,True,The Weeknd,1
+4yP0hdKOZPNshxUOjY0cZj,After Hours,album,2020-03-20,3orEOtd8CPL8GFlpRpKuoE,Faith,8,1,283226,4.720433333333333,True,The Weeknd,1
+4yP0hdKOZPNshxUOjY0cZj,After Hours,album,2020-03-20,0VjIjW4GlUZAMYd2vXMi3b,Blinding Lights,9,1,200040,3.334,False,The Weeknd,1
+4yP0hdKOZPNshxUOjY0cZj,After Hours,album,2020-03-20,7szuecWAPwGoV1e5vGu8tl,In Your Eyes,10,1,237520,3.958666666666667,True,The Weeknd,1
+4yP0hdKOZPNshxUOjY0cZj,After Hours,album,2020-03-20,5QO79kh1waicV47BqGRL3g,Save Your Tears,11,1,215626,3.5937666666666668,True,The Weeknd,1
+4yP0hdKOZPNshxUOjY0cZj,After Hours,album,2020-03-20,40U8d12pC5UHqmHwXjHjjl,Repeat After Me (Interlude),12,1,195813,3.26355,True,The Weeknd,1
+4yP0hdKOZPNshxUOjY0cZj,After Hours,album,2020-03-20,2p8IUWQDrpjuFltbdgLOag,After Hours,13,1,361026,6.0171,False,The Weeknd,1
+4yP0hdKOZPNshxUOjY0cZj,After Hours,album,2020-03-20,2BcnxwxBuar5wjCaLqm5N3,Until I Bleed Out,14,1,190173,3.16955,True,The Weeknd,1
+742eAldb4AJKLoPgJhGRE7,After Hours (Deluxe),album,2020-03-20,1oCyEPXnvytOWS5S9mBE8N,Alone Again,1,1,250057,4.1676166666666665,True,The Weeknd,1
+742eAldb4AJKLoPgJhGRE7,After Hours (Deluxe),album,2020-03-20,4LKx0dlvzsmntdhMCTtV97,Too Late,2,1,239980,3.9996666666666667,True,The Weeknd,1
+742eAldb4AJKLoPgJhGRE7,After Hours (Deluxe),album,2020-03-20,5GM4EsVHaxGjzgQ81S2J61,Hardest To Love,3,1,211402,3.5233666666666665,True,The Weeknd,1
+742eAldb4AJKLoPgJhGRE7,After Hours (Deluxe),album,2020-03-20,6hU8kY1Pot3gvEHb9CVj3F,Scared To Live,4,1,191298,3.1883,True,The Weeknd,1
+742eAldb4AJKLoPgJhGRE7,After Hours (Deluxe),album,2020-03-20,1Hp7vdJwQ4ozmAJzPAJpfX,Snowchild,5,1,247192,4.119866666666667,True,The Weeknd,1
+742eAldb4AJKLoPgJhGRE7,After Hours (Deluxe),album,2020-03-20,51a6oFNsFpB2zew1tdzT6I,Escape From LA,6,1,355960,5.932666666666667,True,The Weeknd,1
+742eAldb4AJKLoPgJhGRE7,After Hours (Deluxe),album,2020-03-20,0HhSydjvwLiBjnVQCG5SjK,Heartless,7,1,198267,3.30445,True,The Weeknd,1
+742eAldb4AJKLoPgJhGRE7,After Hours (Deluxe),album,2020-03-20,3V937b8IsyJ0ZvVHxreiMs,Faith,8,1,283216,4.720266666666666,True,The Weeknd,1
+742eAldb4AJKLoPgJhGRE7,After Hours (Deluxe),album,2020-03-20,4eQO9RHTjYT1O9DTuZLj9v,Blinding Lights,9,1,200045,3.3340833333333335,False,The Weeknd,1
+742eAldb4AJKLoPgJhGRE7,After Hours (Deluxe),album,2020-03-20,7gCFW1KSX4gDgAhro23URU,In Your Eyes,10,1,237522,3.9587,True,The Weeknd,1
+742eAldb4AJKLoPgJhGRE7,After Hours (Deluxe),album,2020-03-20,2pGp7wk76ZfbxYG5MRwfcs,Save Your Tears,11,1,215627,3.5937833333333336,True,The Weeknd,1
+742eAldb4AJKLoPgJhGRE7,After Hours (Deluxe),album,2020-03-20,5dMVtDN1RDNTOL92oDncwd,Repeat After Me (Interlude),12,1,195815,3.2635833333333335,True,The Weeknd,1
+742eAldb4AJKLoPgJhGRE7,After Hours (Deluxe),album,2020-03-20,32HKm4gUeUqQ8SQ28uGYUo,After Hours,13,1,361024,6.017066666666667,False,The Weeknd,1
+742eAldb4AJKLoPgJhGRE7,After Hours (Deluxe),album,2020-03-20,2BTkcHMf8j5pqa5UIMFGcy,Until I Bleed Out,14,1,192363,3.20605,True,The Weeknd,1
+742eAldb4AJKLoPgJhGRE7,After Hours (Deluxe),album,2020-03-20,6utQlfLooYsUkq5xUg3vxt,Nothing Compares - Bonus Track,15,1,222306,3.7051,True,The Weeknd,1
+742eAldb4AJKLoPgJhGRE7,After Hours (Deluxe),album,2020-03-20,5SGEPm9ge10bD4j3ec9UHV,Missed You - Bonus Track,16,1,144539,2.4089833333333335,True,The Weeknd,1
+742eAldb4AJKLoPgJhGRE7,After Hours (Deluxe),album,2020-03-20,4TA5KWeqdDmgdVPHE7Yj3B,Final Lullaby - Bonus Track,17,1,185688,3.0948,True,The Weeknd,1
+742eAldb4AJKLoPgJhGRE7,After Hours (Deluxe),album,2020-03-20,2PipF4mcI9d6cqq5AAp7GU,Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,18,1,191013,3.18355,False,"The Weeknd, Ariana Grande",2
+4qZBW3f2Q8y0k1A84d4iAO,"My Dear Melancholy,",album,2018-03-30,09mEdoA6zrmBPgTEN5qXmN,Call Out My Name,1,1,228373,3.806216666666667,False,The Weeknd,1
+4qZBW3f2Q8y0k1A84d4iAO,"My Dear Melancholy,",album,2018-03-30,4ppTAJUbNXELZcoUaL90wo,Try Me,2,1,221106,3.6851,False,The Weeknd,1
+4qZBW3f2Q8y0k1A84d4iAO,"My Dear Melancholy,",album,2018-03-30,7DKS0rX27cCEPsK0R6tFWS,Wasted Times,3,1,220293,3.67155,True,The Weeknd,1
+4qZBW3f2Q8y0k1A84d4iAO,"My Dear Melancholy,",album,2018-03-30,1cKHdTo9u0ZymJdPGSh6nq,I Was Never There,4,1,241066,4.017766666666667,False,"The Weeknd, Gesaffelstein",2
+4qZBW3f2Q8y0k1A84d4iAO,"My Dear Melancholy,",album,2018-03-30,6QdnKD1zwEgyOWtkrdzlOF,Hurt You,5,1,230026,3.8337666666666665,True,"The Weeknd, Gesaffelstein",2
+4qZBW3f2Q8y0k1A84d4iAO,"My Dear Melancholy,",album,2018-03-30,0Nwar8rweBUyfyuoyjjUvk,Privilege,6,1,170573,2.8428833333333334,True,The Weeknd,1
+4qZBW3f2Q8y0k1A84d4iAO,"My Dear Melancholy,",album,2018-03-30,5PTfZsGlsDDPH8i3PdQnXJ,Call Out My Name - A Cappella,7,1,224746,3.7457666666666665,False,The Weeknd,1
+2ODvWsOgouMbaA5xf0RkJe,Starboy,album,2016-11-25,7MXVkk9YMctZqd1Srtv4MB,Starboy,1,1,230453,3.840883333333333,True,"The Weeknd, Daft Punk",2
+2ODvWsOgouMbaA5xf0RkJe,Starboy,album,2016-11-25,4F7A0DXBrmUAkp32uenhZt,Party Monster,2,1,249213,4.15355,True,The Weeknd,1
+2ODvWsOgouMbaA5xf0RkJe,Starboy,album,2016-11-25,4oeaIftdpT3JuZLcCkKmVE,False Alarm,3,1,220306,3.6717666666666666,False,The Weeknd,1
+2ODvWsOgouMbaA5xf0RkJe,Starboy,album,2016-11-25,37F0uwRSrdzkBiuj0D5UHI,Reminder,4,1,218880,3.648,True,The Weeknd,1
+2ODvWsOgouMbaA5xf0RkJe,Starboy,album,2016-11-25,36YCdzT57us0LhDmCYtrNE,Rockin’,5,1,232880,3.8813333333333335,True,The Weeknd,1
+2ODvWsOgouMbaA5xf0RkJe,Starboy,album,2016-11-25,00NAQYOP4AmWR549nnYJZu,Secrets,6,1,265600,4.426666666666667,False,The Weeknd,1
+2ODvWsOgouMbaA5xf0RkJe,Starboy,album,2016-11-25,1oGdVdYjeQvojGKDddxLQQ,True Colors,7,1,206013,3.43355,False,The Weeknd,1
+2ODvWsOgouMbaA5xf0RkJe,Starboy,album,2016-11-25,4EDijkJdHBZZ0GwJ12iTAj,Stargirl Interlude,8,1,111640,1.8606666666666667,False,"The Weeknd, Lana Del Rey",2
+2ODvWsOgouMbaA5xf0RkJe,Starboy,album,2016-11-25,4h90qkbnW1Qq6pBhoPvwko,Sidewalks,9,1,231360,3.856,True,"The Weeknd, Kendrick Lamar",2
+2ODvWsOgouMbaA5xf0RkJe,Starboy,album,2016-11-25,4mU5iXHeLgbR94siF7p1sY,Six Feet Under,10,1,237573,3.95955,True,The Weeknd,1
+2ODvWsOgouMbaA5xf0RkJe,Starboy,album,2016-11-25,27BgDmciSjoxTG0almHTpZ,Love To Lay,11,1,223293,3.72155,False,The Weeknd,1
+2ODvWsOgouMbaA5xf0RkJe,Starboy,album,2016-11-25,0ifooM33X1iBxVYyOkSbXW,A Lonely Night,12,1,220173,3.66955,False,The Weeknd,1
+2ODvWsOgouMbaA5xf0RkJe,Starboy,album,2016-11-25,6pDVjCUA3B1vg9waKutAsv,Attention,13,1,197653,3.294216666666667,True,The Weeknd,1
+2ODvWsOgouMbaA5xf0RkJe,Starboy,album,2016-11-25,15k2nBQJ0teDmPZHrOXL2N,Ordinary Life,14,1,221920,3.6986666666666665,False,The Weeknd,1
+2ODvWsOgouMbaA5xf0RkJe,Starboy,album,2016-11-25,57qiTKh8bVX0VtfUNTQqhw,Nothing Without You,15,1,198653,3.3108833333333334,False,The Weeknd,1
+2ODvWsOgouMbaA5xf0RkJe,Starboy,album,2016-11-25,0NWqNXBJTpXbkI5rPWNy3p,All I Know,16,1,321026,5.350433333333333,True,"The Weeknd, Future",2
+2ODvWsOgouMbaA5xf0RkJe,Starboy,album,2016-11-25,2Ch7LmS7r2Gy2kc64wv3Bz,Die For You,17,1,260252,4.337533333333333,False,The Weeknd,1
+2ODvWsOgouMbaA5xf0RkJe,Starboy,album,2016-11-25,3dhjNA0jGA8vHBQ1VdD6vV,I Feel It Coming,18,1,269186,4.486433333333333,False,"The Weeknd, Daft Punk",2
+0P3oVJBFOv3TDXlYRhGL7s,Beauty Behind The Madness,album,2015-08-28,03j354P848KtNU2FVSwkDG,Real Life,1,1,223373,3.7228833333333333,True,The Weeknd,1
+0P3oVJBFOv3TDXlYRhGL7s,Beauty Behind The Madness,album,2015-08-28,1bAvtmTl0F9loyz9AwPwp7,Losers,2,1,281146,4.685766666666667,True,"The Weeknd, Labrinth",2
+0P3oVJBFOv3TDXlYRhGL7s,Beauty Behind The Madness,album,2015-08-28,1mhVXWduD8ReDwusfaHNwU,Tell Your Friends,3,1,334333,5.572216666666667,True,The Weeknd,1
+0P3oVJBFOv3TDXlYRhGL7s,Beauty Behind The Madness,album,2015-08-28,4PhsKqMdgMEUSstTDAmMpg,Often,4,1,249040,4.150666666666667,True,The Weeknd,1
+0P3oVJBFOv3TDXlYRhGL7s,Beauty Behind The Madness,album,2015-08-28,7fBv7CLKzipRk6EC6TWHOB,The Hills,5,1,242253,4.03755,True,The Weeknd,1
+0P3oVJBFOv3TDXlYRhGL7s,Beauty Behind The Madness,album,2015-08-28,7uJH0YdSZL6psjxI6Xy08b,Acquainted,6,1,348853,5.814216666666667,True,The Weeknd,1
+0P3oVJBFOv3TDXlYRhGL7s,Beauty Behind The Madness,album,2015-08-28,22VdIZQfgXJea34mQxlt81,Can't Feel My Face,7,1,213520,3.558666666666667,False,The Weeknd,1
+0P3oVJBFOv3TDXlYRhGL7s,Beauty Behind The Madness,album,2015-08-28,6C6fHTuFUxVtJpBOOaMvJr,Shameless,8,1,253506,4.2251,True,The Weeknd,1
+0P3oVJBFOv3TDXlYRhGL7s,Beauty Behind The Madness,album,2015-08-28,4frLb7nWtsz2ymBE6k2GRP,Earned It (Fifty Shades Of Grey),9,1,277680,4.628,True,The Weeknd,1
+0P3oVJBFOv3TDXlYRhGL7s,Beauty Behind The Madness,album,2015-08-28,25KybV9BOUlvcnv7nN3Pyo,In The Night,10,1,235653,3.92755,True,The Weeknd,1
+0P3oVJBFOv3TDXlYRhGL7s,Beauty Behind The Madness,album,2015-08-28,3H3qBumaYj67PT3aMEBvAP,As You Are,11,1,340493,5.674883333333334,True,The Weeknd,1
+0P3oVJBFOv3TDXlYRhGL7s,Beauty Behind The Madness,album,2015-08-28,6J7PIkhtHwmFjPLq0SyuPj,Dark Times,12,1,260640,4.344,True,"The Weeknd, Ed Sheeran",2
+0P3oVJBFOv3TDXlYRhGL7s,Beauty Behind The Madness,album,2015-08-28,1gZADNt16Oh23jWyMYRk4p,Prisoner,13,1,274960,4.582666666666666,True,"The Weeknd, Lana Del Rey",2
+0P3oVJBFOv3TDXlYRhGL7s,Beauty Behind The Madness,album,2015-08-28,0wzPHTgOtFIDhk2rD3Au4x,Angel,14,1,377346,6.2891,True,The Weeknd,1
+3hhDpPtCFuQbppwYgsVhMO,Kiss Land,album,2013-09-10,5ZicFGBDAi9J2YCVesboUp,Professional,1,1,368720,6.145333333333333,False,The Weeknd,1
+3hhDpPtCFuQbppwYgsVhMO,Kiss Land,album,2013-09-10,7jGr8wzgwOVLuktY66qM5f,The Town,2,1,307346,5.122433333333333,False,The Weeknd,1
+3hhDpPtCFuQbppwYgsVhMO,Kiss Land,album,2013-09-10,4pHQ9RYFhn3W0ha5KEuMnj,Adaptation,3,1,283933,4.732216666666667,False,The Weeknd,1
+3hhDpPtCFuQbppwYgsVhMO,Kiss Land,album,2013-09-10,3WKYPmiPpJas9j5Aari5iK,Love In The Sky,4,1,267920,4.465333333333334,True,The Weeknd,1
+3hhDpPtCFuQbppwYgsVhMO,Kiss Land,album,2013-09-10,3D7izPzeEcz7lBhcCZJccl,Belong To The World,5,1,307173,5.11955,False,The Weeknd,1
+3hhDpPtCFuQbppwYgsVhMO,Kiss Land,album,2013-09-10,3kgqHVqfiabABjaFi9Tnhn,Live For,6,1,222666,3.7111,True,"The Weeknd, Drake",2
+3hhDpPtCFuQbppwYgsVhMO,Kiss Land,album,2013-09-10,6V9TlCdwLeQes4FX5zxz3f,Wanderlust,7,1,306773,5.1128833333333334,False,The Weeknd,1
+3hhDpPtCFuQbppwYgsVhMO,Kiss Land,album,2013-09-10,5idmfDT06TjCQ1SPDsa5qh,Kiss Land,8,1,455333,7.588883333333333,True,The Weeknd,1
+3hhDpPtCFuQbppwYgsVhMO,Kiss Land,album,2013-09-10,0ei3uNcwJOiUocuks1vWcb,Pretty,9,1,375400,6.256666666666667,True,The Weeknd,1
+3hhDpPtCFuQbppwYgsVhMO,Kiss Land,album,2013-09-10,5oAOK7xCJD8hzp9PuxjULL,Tears In The Rain,10,1,444653,7.4108833333333335,False,The Weeknd,1
+6wRev1uYL0JsMsWqktJuVi,Kiss Land (Deluxe),album,2013-09-10,7gSjRw3wKuTeDdM0lwp9rv,Professional,1,1,368720,6.145333333333333,False,The Weeknd,1
+6wRev1uYL0JsMsWqktJuVi,Kiss Land (Deluxe),album,2013-09-10,3lcEVP5beEkAFiFIG5D0QF,The Town,2,1,307346,5.122433333333333,False,The Weeknd,1
+6wRev1uYL0JsMsWqktJuVi,Kiss Land (Deluxe),album,2013-09-10,3FvDYk5IC5Um84kK5FbJGR,Adaptation,3,1,283933,4.732216666666667,False,The Weeknd,1
+6wRev1uYL0JsMsWqktJuVi,Kiss Land (Deluxe),album,2013-09-10,5vjgyZm1Zhtg4RptN4evNQ,Love In The Sky,4,1,267920,4.465333333333334,True,The Weeknd,1
+6wRev1uYL0JsMsWqktJuVi,Kiss Land (Deluxe),album,2013-09-10,4w1dIZxwO83XpKo5wgLhkk,Belong To The World,5,1,307173,5.11955,False,The Weeknd,1
+6wRev1uYL0JsMsWqktJuVi,Kiss Land (Deluxe),album,2013-09-10,4ER9305DBAmJqj2P96TfBr,Live For,6,1,222666,3.7111,True,"The Weeknd, Drake",2
+6wRev1uYL0JsMsWqktJuVi,Kiss Land (Deluxe),album,2013-09-10,5OmX5lXxZ5sQgPuSHDn293,Wanderlust,7,1,306773,5.1128833333333334,False,The Weeknd,1
+6wRev1uYL0JsMsWqktJuVi,Kiss Land (Deluxe),album,2013-09-10,5FUn6vN4PDHXxqnb5LQhJQ,Kiss Land,8,1,455333,7.588883333333333,True,The Weeknd,1
+6wRev1uYL0JsMsWqktJuVi,Kiss Land (Deluxe),album,2013-09-10,3ZhnXFSunfOPWSqfLLQA9W,Pretty,9,1,375400,6.256666666666667,True,The Weeknd,1
+6wRev1uYL0JsMsWqktJuVi,Kiss Land (Deluxe),album,2013-09-10,7FeSiBUEyqxlKvjGbfwKku,Tears In The Rain,10,1,444653,7.4108833333333335,False,The Weeknd,1
+6wRev1uYL0JsMsWqktJuVi,Kiss Land (Deluxe),album,2013-09-10,14p9UeyB3zxuo62wRjk5iR,Wanderlust,11,1,305693,5.094883333333334,False,The Weeknd,1
+6wRev1uYL0JsMsWqktJuVi,Kiss Land (Deluxe),album,2013-09-10,7xcqbjV2NfxlnJzqdRuO7E,Odd Look,12,1,252853,4.214216666666666,True,"Kavinsky, The Weeknd",2
+04hy4jb1GDD00otiwzsFUB,Echoes Of Silence (Original),album,2011-12-21,0WdJTI3UVvUMbLwPk5ObKI,D.D.,1,1,274434,4.5739,False,The Weeknd,1
+04hy4jb1GDD00otiwzsFUB,Echoes Of Silence (Original),album,2011-12-21,0UGdO687azruy9tFlCxO6F,Montreal,2,1,250505,4.175083333333333,False,The Weeknd,1
+04hy4jb1GDD00otiwzsFUB,Echoes Of Silence (Original),album,2011-12-21,58yC1Q6XKjmHeWkEWh9O6B,Outside,3,1,259004,4.3167333333333335,True,The Weeknd,1
+04hy4jb1GDD00otiwzsFUB,Echoes Of Silence (Original),album,2011-12-21,0Hs5enNuaAXmJssAybWbOw,XO / The Host,4,1,444212,7.403533333333334,True,The Weeknd,1
+04hy4jb1GDD00otiwzsFUB,Echoes Of Silence (Original),album,2011-12-21,3QWENKFYGEgp3itgTnrgq9,Initiation,5,1,260730,4.3455,True,The Weeknd,1
+04hy4jb1GDD00otiwzsFUB,Echoes Of Silence (Original),album,2011-12-21,37zSTGaP8bfBDGpJnUmSDl,Same Old Song,6,1,312058,5.200966666666667,True,"The Weeknd, Juicy J",2
+04hy4jb1GDD00otiwzsFUB,Echoes Of Silence (Original),album,2011-12-21,0JGoOLSl8A80mSPBL7ya9U,The Fall,7,1,345251,5.754183333333334,False,The Weeknd,1
+04hy4jb1GDD00otiwzsFUB,Echoes Of Silence (Original),album,2011-12-21,6pG3yiKNsX03ZFTFWdOasv,Next,8,1,361687,6.028116666666667,False,The Weeknd,1
+04hy4jb1GDD00otiwzsFUB,Echoes Of Silence (Original),album,2011-12-21,3weHnt82LuCTMa2AnZFM78,Echoes Of Silence,9,1,239995,3.9999166666666666,False,The Weeknd,1
+6F87lH0I09qlrzvCCKc7lz,Thursday (Original),album,2011-08-18,5JpSjNcjuP8L9QrYmv3xcn,Lonely Star,1,1,349032,5.8172,True,The Weeknd,1
+6F87lH0I09qlrzvCCKc7lz,Thursday (Original),album,2011-08-18,6eJbjaoLRlfwrfWpeS6alF,Life Of The Party,2,1,296286,4.9381,False,The Weeknd,1
+6F87lH0I09qlrzvCCKc7lz,Thursday (Original),album,2011-08-18,0l1p13Fbujayv894H0hfpS,Thursday,3,1,320004,5.3334,False,The Weeknd,1
+6F87lH0I09qlrzvCCKc7lz,Thursday (Original),album,2011-08-18,53qYItjefG5SUf62428dIw,The Zone,4,1,418056,6.9676,True,"The Weeknd, Drake",2
+6F87lH0I09qlrzvCCKc7lz,Thursday (Original),album,2011-08-18,5SF1kcOiOmtZFUIQNGC4TC,The Birds Pt. 1,5,1,214515,3.57525,False,The Weeknd,1
+6F87lH0I09qlrzvCCKc7lz,Thursday (Original),album,2011-08-18,2yYDijitHN6psA2tH0ndXs,The Birds Pt. 2,6,1,350583,5.84305,True,The Weeknd,1
+6F87lH0I09qlrzvCCKc7lz,Thursday (Original),album,2011-08-18,7xgYvziLsxNd0UznaEw8Oi,Gone,7,1,486425,8.107083333333334,True,The Weeknd,1
+6F87lH0I09qlrzvCCKc7lz,Thursday (Original),album,2011-08-18,4dXnS1YXBkn4oAIxRLPJcK,Rolling Stone,8,1,230783,3.8463833333333333,True,The Weeknd,1
+6F87lH0I09qlrzvCCKc7lz,Thursday (Original),album,2011-08-18,5JQ5Acrgv1VrO9UtMUN052,Heaven Or Las Vegas,9,1,353732,5.895533333333334,False,The Weeknd,1
+7zCODUHkfuRxsUjtuzNqbd,House Of Balloons (Original),album,2011-03-21,2ye9iWj5V4g6k6HFeTTAKa,High For This,1,1,249102,4.1517,False,The Weeknd,1
+7zCODUHkfuRxsUjtuzNqbd,House Of Balloons (Original),album,2011-03-21,4Yw8TyBm9J8cpy2guHUYog,What You Need,2,1,206421,3.44035,False,The Weeknd,1
+7zCODUHkfuRxsUjtuzNqbd,House Of Balloons (Original),album,2011-03-21,2r7BPog74oaTG5shNYiUnV,House Of Balloons / Glass Table Girls,3,1,407315,6.788583333333333,True,The Weeknd,1
+7zCODUHkfuRxsUjtuzNqbd,House Of Balloons (Original),album,2011-03-21,4jBfUB4kQJCWOrjGLQqhO0,The Morning,4,1,314109,5.23515,True,The Weeknd,1
+7zCODUHkfuRxsUjtuzNqbd,House Of Balloons (Original),album,2011-03-21,00aqkszH1FdUiJJWvX6iEl,Wicked Games,5,1,325305,5.42175,True,The Weeknd,1
+7zCODUHkfuRxsUjtuzNqbd,House Of Balloons (Original),album,2011-03-21,0GROiXm03OrMC5ltXLhGIu,The Party & The After Party,6,1,459659,7.660983333333333,True,The Weeknd,1
+7zCODUHkfuRxsUjtuzNqbd,House Of Balloons (Original),album,2011-03-21,3mHO1J6kfiArjBo1zhLFGP,Coming Down,7,1,295435,4.923916666666667,False,The Weeknd,1
+7zCODUHkfuRxsUjtuzNqbd,House Of Balloons (Original),album,2011-03-21,2yBz1hupoOBncorzuKcJ2z,Loft Music,8,1,363057,6.05095,True,The Weeknd,1
+7zCODUHkfuRxsUjtuzNqbd,House Of Balloons (Original),album,2011-03-21,6tjsbysvZh8Pq8DZA5ldrn,The Knowing,9,1,342828,5.7138,False,The Weeknd,1
+0FWdxPnncm63s91g0PkTvv,Timeless (Remix),single,2024-09-27,7kJyHFVVZMv1wQYRU9de9d,Timeless (feat. Playboi Carti & Doechii) - Remix,1,1,228000,3.8,True,"The Weeknd, Doechii, Playboi Carti",3
+0FWdxPnncm63s91g0PkTvv,Timeless (Remix),single,2024-09-27,7e7aslhXJZj4d0trBrensY,Timeless (feat. Playboi Carti),2,1,256000,4.266666666666667,True,"The Weeknd, Playboi Carti",2
+0FWdxPnncm63s91g0PkTvv,Timeless (Remix),single,2024-09-27,54wv48DETGI2gSJkqTCSyJ,Timeless - Instrumental,3,1,256000,4.266666666666667,False,"The Weeknd, Playboi Carti",2
+0MwPArEeQJx5GMc5Sz7kRV,Dancing In The Flames,single,2024-09-13,29lXN1aoaL6HE72BOvknyr,Dancing In The Flames,1,1,220036,3.6672666666666665,False,The Weeknd,1
+0MwPArEeQJx5GMc5Sz7kRV,Dancing In The Flames,single,2024-09-13,34nSJrquH2c8LNbfnRffMF,Dancing In The Flames - Acoustic,2,1,208113,3.46855,False,The Weeknd,1
+0MwPArEeQJx5GMc5Sz7kRV,Dancing In The Flames,single,2024-09-13,1G73gINM14qd8cE3Lf8V1z,Dancing In The Flames - Live from São Paulo,3,1,312012,5.2002,False,The Weeknd,1
+0MwPArEeQJx5GMc5Sz7kRV,Dancing In The Flames,single,2024-09-13,1h345CZmt3uU9bym4GETWd,Dancing In The Flames - Instrumental,4,1,221580,3.693,False,The Weeknd,1
+0MwPArEeQJx5GMc5Sz7kRV,Dancing In The Flames,single,2024-09-13,167wD7BlzcLxsX8PlSujCa,Dancing In The Flames - Acapella,5,1,203828,3.397133333333333,False,The Weeknd,1
+7GHiMUbLhh67dWSN1xGUcP,Dancing In The Flames (Live from São Paulo),single,2024-09-13,7HLn9FW7A3XPb5JVYN1090,Dancing In The Flames - Live from São Paulo,1,1,312012,5.2002,False,The Weeknd,1
+0p0FGxiCrl3afABenvtWbQ,Popular,single,2024-01-26,1L8ObNUDCh7k6GwDIbfx9Q,Popular (with Playboi Carti & Madonna),1,1,215466,3.5911,True,"The Weeknd, Playboi Carti, Madonna",3
+0p0FGxiCrl3afABenvtWbQ,Popular,single,2024-01-26,7H3cuCPaX9WHZXQ0Q9RlxH,Popular (Sped Up) (with Playboi Carti & Madonna),2,1,187555,3.1259166666666665,True,"The Weeknd, Madonna, Playboi Carti, xxtristanxo",4
+0p0FGxiCrl3afABenvtWbQ,Popular,single,2024-01-26,2fTe41iso7GyCLuRu3UmJh,Popular (Slowed) (with Playboi Carti & Madonna),3,1,258417,4.30695,True,"The Weeknd, Madonna, Playboi Carti, xxtristanxo",4
+0p0FGxiCrl3afABenvtWbQ,Popular,single,2024-01-26,6LRLy3SmtsPJaopCiavbme,Popular (Instrumental) (with Playboi Carti & Madonna),4,1,215466,3.5911,False,"The Weeknd, Madonna, Playboi Carti",3
+0p0FGxiCrl3afABenvtWbQ,Popular,single,2024-01-26,5ck9P3yEwc8w2Z1oE0CRlz,Popular (A Cappella) (with Playboi Carti & Madonna),5,1,215466,3.5911,True,"The Weeknd, Madonna, Playboi Carti",3
+4T8wBxIvoSRVfoFZzuwOXR,One of the Girls,single,2023-12-08,54XqJ3fP3GxmUejMsKwCaK,One Of The Girls,1,1,244684,4.0780666666666665,False,"The Weeknd, JENNIE, Lily-Rose Depp",3
+4T8wBxIvoSRVfoFZzuwOXR,One of the Girls,single,2023-12-08,4WfGDkm99oLJSAtELYZYEd,One Of The Girls - Sped Up,2,1,215952,3.5992,False,"The Weeknd, JENNIE, Lily-Rose Depp",3
+4T8wBxIvoSRVfoFZzuwOXR,One of the Girls,single,2023-12-08,3bWm8ejTzkMhPSdBnpxLvl,One Of The Girls - Slowed,3,1,305855,5.097583333333334,False,"The Weeknd, JENNIE, Lily-Rose Depp",3
+4T8wBxIvoSRVfoFZzuwOXR,One of the Girls,single,2023-12-08,7zNS5065xzKyhOBMOj7pCr,One Of The Girls - Instrumental,4,1,244684,4.0780666666666665,False,"The Weeknd, JENNIE, Lily-Rose Depp",3
+4T8wBxIvoSRVfoFZzuwOXR,One of the Girls,single,2023-12-08,4oN4odRiXgTMnaAjz7kinV,One Of The Girls - A Cappella,5,1,249600,4.16,False,"The Weeknd, JENNIE, Lily-Rose Depp",3
+2xnqikpcvH2vBYc89VnwwL,Another One Of Me (feat. 21 Savage),single,2023-09-15,3vAdBZvbr3bFBiSLT4iVap,Another One Of Me (feat. 21 Savage),1,1,220408,3.6734666666666667,True,"Diddy, The Weeknd, French Montana, 21 Savage",4
+10eNMeTimUzAKLhCOpIUlb,K-POP,single,2023-07-21,5L3ecxQnQ9qTBmnLQiwf0C,K-POP,1,1,185220,3.087,True,"Travis Scott, Bad Bunny, The Weeknd",3
+0jiAYLsE1PumLJncO7vUIl,K-POP (Chopped & Screwed),single,2023-07-18,1RlcvK95g0XfRpDvFbGLUO,K-POP,1,1,185220,3.087,True,Travis Scott,1
+0jiAYLsE1PumLJncO7vUIl,K-POP (Chopped & Screwed),single,2023-07-18,0kHlKWunEQ5zoQmKHNJT6P,K-POP - Chopped & Screwed,2,1,273313,4.5552166666666665,True,"Travis Scott, Bad Bunny, The Weeknd",3
+0jiAYLsE1PumLJncO7vUIl,K-POP (Chopped & Screwed),single,2023-07-18,2kvzSGkSaU9z3uywQIrhAg,K-POP - Instrumental,3,1,185220,3.087,False,"Travis Scott, Bad Bunny, The Weeknd",3
+0jiAYLsE1PumLJncO7vUIl,K-POP (Chopped & Screwed),single,2023-07-18,5mEE5p155rwEwxk83wcRIZ,K-POP - Sped Up,4,1,145530,2.4255,True,"Travis Scott, Bad Bunny, The Weeknd",3
+10SppFk45za4CHPEiiuQaD,The Idol Episode 5 Part 2 (Music from the HBO Original Series),single,2023-07-03,5HUQPQ9E1a4er4UhB8C7Rc,Dollhouse (with Lily Rose Depp),1,1,239783,3.996383333333333,False,"The Weeknd, Lily-Rose Depp",2
+10SppFk45za4CHPEiiuQaD,The Idol Episode 5 Part 2 (Music from the HBO Original Series),single,2023-07-03,3TBFOYhRrY2lL4lcmtvIrU,My Sweet Lord,2,1,192786,3.2131,False,Troye Sivan,1
+10SppFk45za4CHPEiiuQaD,The Idol Episode 5 Part 2 (Music from the HBO Original Series),single,2023-07-03,7MwYXhh2dTqc7fiwkwPZo1,Crocodile Tears,3,1,182799,3.04665,False,Suzanna Son,1
+4q3wUuIReEjGSYzmSsxtl6,The Idol Episode 5 Part 1 (Music from the HBO Original Series),single,2023-06-30,6P8Rrx5cnxee40GPieLvhc,Like A God,1,1,226813,3.7802166666666666,False,The Weeknd,1
+4q3wUuIReEjGSYzmSsxtl6,The Idol Episode 5 Part 1 (Music from the HBO Original Series),single,2023-06-30,6cViXqp01e3FrAaseuiSAV,"False Idols (with Lil Baby, Suzanna Son)",2,1,262229,4.3704833333333335,True,"The Weeknd, Lil Baby, Suzanna Son",3
+7tzVd1fwkxsorytCBjEJkU,The Idol Episode 4 (Music from the HBO Original Series),single,2023-06-23,7CyPwkp0oE8Ro9Dd5CUDjW,"One Of The Girls (with JENNIE, Lily Rose Depp)",1,1,244684,4.0780666666666665,False,"The Weeknd, JENNIE, Lily-Rose Depp",3
+7tzVd1fwkxsorytCBjEJkU,The Idol Episode 4 (Music from the HBO Original Series),single,2023-06-23,5LffvExhQQFcfwqkGNpFpM,Jealous Guy,2,1,209655,3.49425,False,The Weeknd,1
+7tzVd1fwkxsorytCBjEJkU,The Idol Episode 4 (Music from the HBO Original Series),single,2023-06-23,010ZkIVv6Ay5vqqHVCCiKB,"Fill The Void (with Lily Rose Depp, Ramsey)",3,1,185751,3.09585,False,"The Weeknd, Lily-Rose Depp, Ramsey",3
+5aX2plzPm0m6zk4ZFuqbuI,The Idol Episode 3 (Music from the HBO Original Series),single,2023-06-19,4bPsiRqWPFPgLiPQR7jNo4,A Lesser Man,1,1,298616,4.976933333333333,True,The Weeknd,1
+5aX2plzPm0m6zk4ZFuqbuI,The Idol Episode 3 (Music from the HBO Original Series),single,2023-06-19,6QZePG40wT3i7bIRlmauTm,Take Me Back,2,1,227645,3.7940833333333335,False,The Weeknd,1
+5aX2plzPm0m6zk4ZFuqbuI,The Idol Episode 3 (Music from the HBO Original Series),single,2023-06-19,14OYmvxPRx8lABHthDN4AX,Get It B4,3,1,262387,4.373116666666666,False,Moses Sumney,1
+5bx7i3cuSfXBPF7Li8kUR7,The Idol Episode 2 (Music from the HBO Original Series),single,2023-06-12,1CatlSR0Kh0hsvGF2Z8l3s,Family (with Suzanna Son),1,1,183884,3.0647333333333333,False,"The Weeknd, Suzanna Son",2
+5bx7i3cuSfXBPF7Li8kUR7,The Idol Episode 2 (Music from the HBO Original Series),single,2023-06-12,57olj5GnAUyVo6touOTgWl,Devil's Paradise,2,1,338187,5.63645,False,MIKE DEAN,1
+5bx7i3cuSfXBPF7Li8kUR7,The Idol Episode 2 (Music from the HBO Original Series),single,2023-06-12,2WxcXtp6kuC7biYBxBbeeG,Double Fantasy (with Future),3,1,268235,4.470583333333333,True,"The Weeknd, Future",2
+6E3IPXh38G7UHLqVdfIY5h,The Idol Episode 1 (Music from the HBO Original Series),single,2023-06-09,0OajXvsbkfhx5CTn4gsAdB,The Lure (Main Theme) (with Mike Dean),1,1,277856,4.630933333333333,False,"The Weeknd, MIKE DEAN",2
+6E3IPXh38G7UHLqVdfIY5h,The Idol Episode 1 (Music from the HBO Original Series),single,2023-06-09,7dnixpDdQlIOX1L7O0pdFM,World Class Sinner / I’m A Freak,2,1,199280,3.3213333333333335,True,Lily-Rose Depp,1
+5O0zUvdnJr0RbWzLFneN2i,Popular (Music from the HBO Original Series),single,2023-06-02,6WzRpISELf3YglGAh7TXcG,Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series),1,1,215466,3.5911,True,"The Weeknd, Playboi Carti, Madonna",3
+0Ct52rooGyvjv6qXrBPNzm,Double Fantasy,single,2023-04-21,4VMRsbfZzd3SfQtaJ1Wpwi,Double Fantasy (with Future),1,1,268235,4.470583333333333,True,"The Weeknd, Future",2
+0Ct52rooGyvjv6qXrBPNzm,Double Fantasy,single,2023-04-21,0vuiKizDyUXdIge9npkEKn,Double Fantasy (with Future) - Radio Edit,2,1,235966,3.9327666666666667,True,"The Weeknd, Future",2
+3P2UkOkqWp8ucd1EOnVAH7,Creepin' (Remix),single,2023-03-17,5Ee4IyhPaOVRMc15fUOeG9,Creepin' (feat. 21 Savage) - Remix,1,1,232800,3.88,True,"Metro Boomin, The Weeknd, Diddy, 21 Savage",4
+3P2UkOkqWp8ucd1EOnVAH7,Creepin' (Remix),single,2023-03-17,1Tr5FhvxC4IlRXYJHCXJdZ,Creepin',2,1,221520,3.692,True,"Metro Boomin, The Weeknd, 21 Savage",3
+3P2UkOkqWp8ucd1EOnVAH7,Creepin' (Remix),single,2023-03-17,16FRIbCsgA60AiJpTh2wYX,Creepin' - Instrumental,3,1,221520,3.692,True,Metro Boomin,1
+0YF085Qdh4HgdhZ8zjWkpo,Die For You,single,2023-02-27,4JNdwEfqwFRiAeEISC8RU8,Die For You (with Ariana Grande) - Remix,1,1,232857,3.88095,False,"The Weeknd, Ariana Grande",2
+0YF085Qdh4HgdhZ8zjWkpo,Die For You,single,2023-02-27,0lUWGCpXozLqApCdup94Tu,Die For You,2,1,260255,4.337583333333333,False,The Weeknd,1
+0YF085Qdh4HgdhZ8zjWkpo,Die For You,single,2023-02-27,1tcWDBYQbJZVixZzsBWB0P,Die For You - Instrumental,3,1,259367,4.322783333333334,False,The Weeknd,1
+0YF085Qdh4HgdhZ8zjWkpo,Die For You,single,2023-02-27,28vy7I63Gtqw90rvgxw8sU,Die For You - Sped Up,4,1,223441,3.7240166666666665,False,"The Weeknd, xxtristanxo, Speed Radio",3
+6Exo0MYoL3XammoTDeihFy,Die For You (Remix),single,2023-02-24,7oDd86yk8itslrA9HRP2ki,Die For You - Remix,1,1,232857,3.88095,False,"The Weeknd, Ariana Grande",2
+4a8uxN5j5ZSWuioZ9cHqWk,Best Friends (Remix),single,2022-08-05,3YZmW6AUHsbN7KhOTd944i,Best Friends - Remix,1,1,175071,2.91785,False,"The Weeknd, Summer Walker",2
+181WKxuhHzTyjMcYdI7UUe,How Do I Make You Love Me? (Sebastian Ingrosso & Salvatore Ganacci Remix),single,2022-07-22,1DQGIcihPgi4kDCdx1fEn0,How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix,1,1,217766,3.6294333333333335,False,"The Weeknd, Sebastian Ingrosso, Salvatore Ganacci",3
+0Vz32hcNoqOZIpJVI0qExN,Dawn FM (OPN Remix),single,2022-07-08,0ymDgXNt5qdPZmeSpAf3P0,Dawn FM - OPN Remix,1,1,184127,3.068783333333333,False,"The Weeknd, Oneohtrix Point Never",2
+6vJRxj9GnmwXT7mKJqE61n,Starry Eyes (MIKE DEAN Remix),single,2022-07-01,5ONnknPrFf58QVxCBRcofB,Starry Eyes - MIKE DEAN Remix,1,1,198222,3.3037,False,"The Weeknd, MIKE DEAN",2
+6LuY3APmuxui8BM2oibkrZ,Out Of Time (Remix Bundle),single,2022-04-22,4Rrj1QxDqsj28gv9SiHQRA,Out of Time - KAYTRANADA Remix,1,1,275555,4.592583333333334,False,"The Weeknd, KAYTRANADA",2
+6LuY3APmuxui8BM2oibkrZ,Out Of Time (Remix Bundle),single,2022-04-22,5wyFsVGDdrOZM0nf2D4p8f,Out of Time - KAYTRANADA Remix / Radio Edit,2,1,155555,2.5925833333333332,False,"The Weeknd, KAYTRANADA",2
+6LuY3APmuxui8BM2oibkrZ,Out Of Time (Remix Bundle),single,2022-04-22,6TZFNPSXXXBakzy5oUDQhc,Out of Time,3,1,214190,3.5698333333333334,False,The Weeknd,1
+6LuY3APmuxui8BM2oibkrZ,Out Of Time (Remix Bundle),single,2022-04-22,6oYRgLK4B38yYy9TeTpMjn,Out of Time - Instrumental,4,1,214190,3.5698333333333334,False,The Weeknd,1
+0sye9Q82C9Q4tTJN8b0aFq,Moth To A Flame,single,2022-01-04,6j6F1Y7axFvgjuiRsEQCWO,Moth To A Flame (with The Weeknd),1,1,234000,3.9,False,"Swedish House Mafia, The Weeknd",2
+0sye9Q82C9Q4tTJN8b0aFq,Moth To A Flame,single,2022-01-04,44Vzd5QhPFN0ydfw9Hwou2,"Moth To A Flame (with The Weeknd, Chris Lake) - Chris Lake Remix",2,1,278120,4.6353333333333335,False,"Swedish House Mafia, The Weeknd, Chris Lake",3
+0sye9Q82C9Q4tTJN8b0aFq,Moth To A Flame,single,2022-01-04,3YcDJOpqGjXj6AYhneCXGX,"Moth To A Flame (with The Weeknd, feat. Tourist) - Tourist Remix",3,1,293315,4.888583333333333,False,"Swedish House Mafia, The Weeknd, Tourist",3
+0sye9Q82C9Q4tTJN8b0aFq,Moth To A Flame,single,2022-01-04,0sf62tS5AFYKV32QtcykFa,Moth To A Flame (with The Weeknd) - Extended Mix,4,1,298750,4.979166666666667,False,"Swedish House Mafia, The Weeknd",2
+17cYF29ZBcDYoRkWUzFWfQ,Moth To A Flame (Moojo Remix),single,2022-01-04,40MXr7BMh3ShPf2b9giSRt,"Moth To A Flame (with The Weeknd, Moojo) - Moojo Remix",1,1,436721,7.278683333333333,False,"Swedish House Mafia, The Weeknd, Moojo",3
+6fgSKdHloRioPrZ9oJC7FH,One Right Now,single,2021-11-05,00Blm7zeNqgYLPtW6zg8cj,One Right Now (with The Weeknd),1,1,193506,3.2251,True,"Post Malone, The Weeknd",2
+4YV1qBdn6O6thyg18kBo0N,Hurricane,single,2021-08-27,44I7sqKYCAa7bQdVywkShO,Hurricane,1,1,238182,3.9697,False,"Kanye West, The Weeknd, Lil Baby",3
+5vgkX6abffhom2ejVI11yq,Die For It (ft. Nas),single,2021-08-26,3JvdrCezbM6DQOjNiBiX5q,Die For It (ft. Nas),1,1,199886,3.3314333333333335,True,"Belly, The Weeknd, Nas",3
+6DmXKM13nNgIIby2FdK0f8,Take My Breath,single,2021-08-06,6OGogr19zPTM4BALXuMQpF,Take My Breath - Single Version,1,1,220196,3.6699333333333333,False,The Weeknd,1
+4lBrDelXR6Sn0k54a7UWMz,Take My Breath,single,2021-08-05,6M3PsepEj5gyJoIi7Xvr7u,Take My Breath - Single Version,1,1,220196,3.6699333333333333,False,The Weeknd,1
+4lBrDelXR6Sn0k54a7UWMz,Take My Breath,single,2021-08-05,3V8wDzLWWl1O1Hdldf3TsF,Take My Breath - Instrumental,2,1,220246,3.6707666666666667,False,The Weeknd,1
+4lBrDelXR6Sn0k54a7UWMz,Take My Breath,single,2021-08-05,23FnV9ThaK01oNWc3E87yh,Take My Breath - Extended Version,3,1,351210,5.8535,False,The Weeknd,1
+15a7Yf9rZIKhulN2NEKb3a,Better Believe,single,2021-07-22,3zs87EV3EZSh2UpiXxT52Y,Better Believe,1,1,206629,3.4438166666666667,True,"Belly, The Weeknd, Young Thug",3
+2fyOpT5c9kxR8zbDh6UtXh,Save Your Tears (Remix),single,2021-04-23,37BZB0z9T8Xu7U3e65qxFy,Save Your Tears (with Ariana Grande) (Remix),1,1,191013,3.18355,False,"The Weeknd, Ariana Grande",2
+7B70Z32Ha84aMT6TOnW410,Blinding Lights (Remix),single,2020-12-04,7MXgrcOQAJ5VwSNUL0lDd3,Blinding Lights (with ROSALÍA) - Remix,1,1,216123,3.60205,False,"The Weeknd, ROSALÍA",2
+4d5Ak9U5eZ3lU1JGfnMUdI,Christmas Blues (with The Weeknd),single,2020-11-26,2DH1nHJ05F0V71BCKxVNcn,Christmas Blues (with The Weeknd),1,1,205159,3.4193166666666666,False,"Sabrina Claudio, The Weeknd",2
+1Ag9EPbzibwzz0S0WpgX3v,Hawái (Remix),single,2020-11-05,0GzuHFG4Ql6DoyxFRnIk3F,Hawái - Remix,1,1,200027,3.3337833333333333,False,"Maluma, The Weeknd",2
+2MouaLzzY4HnsUYJYSgu2o,In Your Eyes (Remix),single,2020-10-16,1SySkCqhEG6Z68o2n07Bsr,In Your Eyes (feat. Kenny G) - Remix,1,1,256551,4.27585,False,"The Weeknd, Kenny G",2
+5ELWxtRpadxkLUUvbzpiZO,King Of The Fall,single,2020-09-25,7o3Mcis1uKcYDuuJD1W0Rm,King Of The Fall,1,1,301594,5.026566666666667,True,The Weeknd,1
+3sL9Myf7JF1k9TbrXE46ou,Blinding Lights,single,2020-09-11,6qYkmqFsXbj8CQjAdbYz07,Blinding Lights,1,1,200045,3.3340833333333335,False,The Weeknd,1
+3sL9Myf7JF1k9TbrXE46ou,Blinding Lights,single,2020-09-11,0L20xHbaJJEq2pDi4IEAPP,Blinding Lights - Major Lazer Remix,2,1,197961,3.29935,False,"The Weeknd, Major Lazer",2
+3sL9Myf7JF1k9TbrXE46ou,Blinding Lights,single,2020-09-11,5932dbzLjkEdE7T8BGPL50,Blinding Lights - Chromatics Remix,3,1,261239,4.353983333333334,False,"The Weeknd, Chromatics, Johnny Jewel",3
+3sL9Myf7JF1k9TbrXE46ou,Blinding Lights,single,2020-09-11,3nA3gSFyHptpWrE8GpHGfn,Blinding Lights - Instrumental,4,1,202104,3.3684,False,The Weeknd,1
+1z3fFEPcCWT4KLaOf0ptb0,Blinding Lights (Instrumental),single,2020-09-11,6zaxxZxxjUJ0I3AYkzp2WA,Blinding Lights - Instrumental,1,1,202104,3.3684,False,The Weeknd,1
+3GPiefSRSOxqTrgKJIB7RL,Over Now (with The Weeknd),single,2020-08-28,58AGoOGbwsQMhBbH0eFLRR,Over Now (with The Weeknd),1,1,210795,3.51325,True,"Calvin Harris, The Weeknd",2
+0iW4rP7Mib8M3nnhkKU5N7,Smile (with The Weeknd),single,2020-08-07,1EIsJed40cd7Bcv8SXVdqA,Smile (with The Weeknd),1,1,196180,3.2696666666666667,True,"Juice WRLD, The Weeknd",2
+0Jh3A8NAbc9eFpdUfhDedt,In Your Eyes (Remix),single,2020-05-21,0UnTaVkntyh3vqvLEvbpQx,In Your Eyes (with Doja Cat) - Remix,1,1,237911,3.9651833333333335,False,"The Weeknd, Doja Cat",2
+1ZJIMQ7fTy5Aw7InjQtvnO,After Hours (Remixes),single,2020-04-02,7wcoSs40brhyS3htaaDkgD,Heartless - Remix,1,1,200126,3.3354333333333335,True,"The Weeknd, Lil Uzi Vert",2
+1ZJIMQ7fTy5Aw7InjQtvnO,After Hours (Remixes),single,2020-04-02,3cyZJVssTbqeGAEF6DFqhc,Blinding Lights - Chromatics Remix,2,1,261239,4.353983333333334,False,"The Weeknd, Chromatics, Johnny Jewel",3
+1ZJIMQ7fTy5Aw7InjQtvnO,After Hours (Remixes),single,2020-04-02,0e5Cykguk6797AaVUjJI92,Save Your Tears - OPN Remix,3,1,220803,3.68005,False,"The Weeknd, Oneohtrix Point Never",2
+1ZJIMQ7fTy5Aw7InjQtvnO,After Hours (Remixes),single,2020-04-02,13s4YFYQEnHLJEcdZvLuol,Heartless - Vapor Wave Remix,4,1,165353,2.7558833333333332,True,"The Weeknd, Lil Uzi Vert, DaHeala",3
+1ZJIMQ7fTy5Aw7InjQtvnO,After Hours (Remixes),single,2020-04-02,3WAXILvmHFoyVHnK0kDK1S,After Hours - The Blaze Remix,5,1,238128,3.9688,False,"The Weeknd, The Blaze",2
+1ZJIMQ7fTy5Aw7InjQtvnO,After Hours (Remixes),single,2020-04-02,2MGK1j9rfiTkffb6I7L98w,Scared To Live - SNL Live,6,1,217834,3.6305666666666667,False,The Weeknd,1
+74hsEs8mQoNkB6NwgrgV3s,Blinding Lights (Major Lazer Remix),single,2020-03-31,68kQQv6idXUcXIf1n59Y3i,Blinding Lights - Major Lazer Remix,1,1,197961,3.29935,False,"The Weeknd, Major Lazer",2
+6B3VYsWUR2xf7HptOO2fpr,Reminder (Remix),single,2017-08-01,7F1LWA9sIlTorHUo4amGqk,Reminder - Remix,1,1,221968,3.6994666666666665,True,"The Weeknd, A$AP Rocky, Young Thug",3
+0NSognr1k6PH6SZZ6uv44G,Lust for Life (with The Weeknd),single,2017-04-19,5hzey1kBGjy3B8tDGcyRTY,Lust for Life (with The Weeknd),1,1,264011,4.400183333333334,False,"Lana Del Rey, The Weeknd",2
+4rGQxBDZ4hHCKePXaYOTSB,Starboy (Kygo Remix),single,2016-11-11,6LJFgCd9wU2VptHEwz2Wl3,Starboy - Kygo Remix,1,1,244720,4.078666666666667,True,"The Weeknd, Daft Punk, Kygo",3
+3x3MSUwsijjsVPRwUMU8NG,The Hills (RL Grime Remix),single,2015-11-06,6SNUuxeg0NWXSEkFirAkAM,The Hills - RL Grime Remix,1,1,271066,4.517766666666667,False,"The Weeknd, RL Grime",2
+12yYl13Ce7u8LuhtEl75aQ,Can't Feel My Face (Martin Garrix Remix),single,2015-11-06,22SXyL6pUjwIvGWvgGjLov,Can't Feel My Face - Martin Garrix Remix,1,1,252933,4.21555,False,"The Weeknd, Martin Garrix",2
+6JoPCMcyZrZ70diS45qE1i,The Hills Remixes,single,2015-10-11,7iTloMifzZo9ZNZKEe4V2V,The Hills - Remix,1,1,263693,4.3948833333333335,True,"The Weeknd, Eminem",2
+6JoPCMcyZrZ70diS45qE1i,The Hills Remixes,single,2015-10-11,42bUsj5M2olT2wRMRaro9g,The Hills - Remix,2,1,242453,4.040883333333333,True,"The Weeknd, Nicki Minaj",2
+0V4FRK9laLF1enOUga4b2d,Often (Kygo Remix),single,2015-04-07,27NV2KxoQ8WuLMqlTDI61F,Often - Kygo Remix,1,1,234400,3.9066666666666667,True,"The Weeknd, Kygo",2
+61Ba3txRZWfiX6ZTEZlFCV,"Earned It (Fifty Shades Of Grey) [From The ""Fifty Shades Of Grey"" Soundtrack]",single,2014-12-23,2PIvq1pGrUjY007X5y1UpM,"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack",1,1,252226,4.203766666666667,False,The Weeknd,1
+42j6ji8hAqwHUpvw2H08SU,Love Me Harder,single,2014-08-22,7HE1FnMtSsRotzIAQPXpr5,Love Me Harder,1,1,236041,3.9340166666666665,False,"Ariana Grande, The Weeknd",2
+42j6ji8hAqwHUpvw2H08SU,Love Me Harder,single,2014-08-22,071IQ2wufBbCpB95z7VU7i,Love Me Harder - A Cappella,2,1,233663,3.8943833333333333,False,"Ariana Grande, The Weeknd",2
+42j6ji8hAqwHUpvw2H08SU,Love Me Harder,single,2014-08-22,5Lrma6e2xfpi8uGBknkQIt,Love Me Harder - Instrumental,3,1,236034,3.9339,False,Ariana Grande,1
+0jd24pQ5ueY5rVC4H3jTtC,Wanderlust,single,2014-06-13,5WsCmd32VvISX0RrTUZgc8,Wanderlust - Pharrell Remix,1,1,305693,5.094883333333334,False,The Weeknd,1
+3SHx7bBQFI4J8QRr6D5cOK,"Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) [Remix]",single,2014-06-10,7t2bFihaDvhIrd2gn2CWJO,"Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix",1,1,242983,4.049716666666667,True,"Ty Dolla $ign, The Weeknd, Wiz Khalifa, Mustard",4
+3oUb4a8tU3WBXMnY0efxf8,Wanderlust (Remixes),single,2014-05-19,4R3Pi77fc7MB54wj1gqSt2,Wanderlust - Steve Pitron & Max Sanna Club Mix,1,1,398536,6.642266666666667,False,The Weeknd,1
+3oUb4a8tU3WBXMnY0efxf8,Wanderlust (Remixes),single,2014-05-19,6CC7OQNB05sVjlmATgT7Ln,Wanderlust - Steve Pitron & Max Sanna Radio Edit,2,1,227804,3.7967333333333335,False,The Weeknd,1
+3oUb4a8tU3WBXMnY0efxf8,Wanderlust (Remixes),single,2014-05-19,1dHxMfxIxRjA406CGC8pWH,Wanderlust - Clean Bandit Remix,3,1,196181,3.2696833333333335,False,The Weeknd,1
+3pRBz5DK6nLDGd8q0XS5Qg,Remember You,single,2012-09-24,19EgqewYa61aZwRtXfxbew,Remember You,1,1,289600,4.826666666666667,True,"Wiz Khalifa, The Weeknd",2
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,36LdTnEWBDLDDA3hEsSLvi,High For This,1,1,249102,4.1517,False,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,6zKlGJXteHq8KRKaLnUfCs,What You Need,2,1,206421,3.44035,False,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,5d6lYplVOV4xJ37EVCpHqB,House Of Balloons / Glass Table Girls,3,1,407315,6.788583333333333,True,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,7wPTyxE1PNemZuyuOOaQ8q,The Morning,4,1,314109,5.23515,True,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,7bGF2hNOP6SROacsxo1fCk,Wicked Games,5,1,325305,5.42175,True,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,7bvkyTwVkylUGJvz1UMjFk,The Party & The After Party,6,1,459659,7.660983333333333,True,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,4q75XguyPrsduy70hcBVFu,Coming Down,7,1,295435,4.923916666666667,False,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,78aURwMzynDMan7DfSWwsI,Loft Music,8,1,363057,6.05095,True,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,4FuSnjXKARcUOwiPnEnh1p,The Knowing,9,1,342828,5.7138,False,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,3dQEShIMs5TW8H3eUh11r7,Twenty Eight,10,1,258293,4.304883333333334,True,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,4coENUbKuiuFb0C38uqFTi,Lonely Star,1,2,349032,5.8172,True,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,3DBumrwaikaisVDQdcM7jU,Life Of The Party,2,2,296286,4.9381,False,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,7Kd39JsnLyJLEXNeWUi3T9,Thursday,3,2,320004,5.3334,False,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,6HrLsSVEk6C1X2EKmOEBxA,The Zone,4,2,418056,6.9676,True,"The Weeknd, Drake",2
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,6ojrylBvc8SkXGjr02FjRX,The Birds Pt. 1,5,2,214515,3.57525,False,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,4Mnnd0fBRucoxGhtG7MccI,The Birds Pt. 2,6,2,350583,5.84305,True,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,5e5h9GeNY6janbVi34tn9e,Gone,7,2,486425,8.107083333333334,True,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,4vz3UReBbxyPuVqgIjTCeA,Rolling Stone,8,2,230783,3.8463833333333333,True,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,4WZZeEjRqC4tV8rFljQzEo,Heaven Or Las Vegas,9,2,353732,5.895533333333334,False,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,5JaqApg5415jtjdyjY3wa9,Valerie,10,2,286599,4.77665,False,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,1JVDTuD60L2oSz9D6TlQiq,D.D.,1,3,274434,4.5739,False,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,2cA9RA2kuwsR7OBQ2LIEIe,Montreal,2,3,250505,4.175083333333333,False,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,5RgSyslysUK17GhRli5ksZ,Outside,3,3,259004,4.3167333333333335,True,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,7liZGwyLYFBSobxHLazRAt,XO / The Host,4,3,444212,7.403533333333334,True,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,7qdfBIElGNUtPijoxJ1mMl,Initiation,5,3,260730,4.3455,True,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,2laEnnWXQmXSXaoD3ak5Ve,Same Old Song,6,3,312058,5.200966666666667,True,"The Weeknd, Juicy J",2
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,71wzVT1X4S2LTvsnyrWyPt,The Fall,7,3,345251,5.754183333333334,False,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,2wRVEpcB2lgsyWbejp8vMt,Next,8,3,361687,6.028116666666667,False,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,3WOWPWXE4h0rDIwGZ06yo1,Echoes Of Silence,9,3,239995,3.9999166666666666,False,The Weeknd,1
+2XGEyGU76kj55OdHWynX0S,Trilogy,compilation,2012-11-13,0kXHpsg9SmpRqsQ4wQvQsK,Till Dawn (Here Comes The Sun),10,3,319530,5.3255,False,The Weeknd,1

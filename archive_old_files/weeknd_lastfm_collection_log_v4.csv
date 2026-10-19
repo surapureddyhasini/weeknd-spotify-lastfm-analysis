@@ -1,0 +1,7 @@
+kind,title,artist,error
+track_getInfo,I Was Never There,The Weeknd,title_failed: Last.fm error 6: Track not found
+track_getInfo,"Reflections Laughing (feat. Travis Scott, Florence + The Machine)","The Weeknd, Travis Scott, Florence + The Machine",title_failed: Last.fm error 6: Track not found
+track_getInfo,Reflections Laughing (feat. Travis Scott & Florence + The Machine),The Weeknd,title_failed: Last.fm error 6: Track not found
+track_getInfo,"Reflections Laughing (feat. Travis Scott, Florence + The Machine)",The Weeknd/Travis Scott/Florence + The Machine,title_failed: Last.fm error 6: Track not found
+track_getInfo,Reflections Laughing,"The Weeknd, Travis Scott & Florence + the Machine",title_failed: Last.fm error 6: Track not found
+track_getInfo,Reflections Laughing,"The Weeknd, Travis Scott, Florence + The Machine",title_failed: Last.fm error 6: Track not found
