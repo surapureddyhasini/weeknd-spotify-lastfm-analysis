@@ -12,7 +12,29 @@ What started as a personal passion for music became an opportunity to apply data
 
 The goal is to understand how The Weeknd's discography has evolved over time, how listening engagement differs across tracks and albums, and what patterns emerge from his releases, collaborations, and music characteristics.
 
-🔗 **Explore the live dashboard:** [The Weeknd Analytics Pro](https://weekndanalyticspro.base44.app/)
+## 📊 Dashboard Preview
+
+Explore the different analytical views of The Weeknd's discography through the interactive dashboard.
+
+### 1. Popularity & Listening Performance
+
+Explore track popularity, listener engagement, and the distribution of plays across albums.
+
+![The Weeknd Analytics Pro — Overview and Popularity](screenshots/dashboard-overview.png)
+
+### 2. Discography Evolution
+
+Analyse album runtime trends, release gaps, catalogue growth, and the relationship between track duration and playcount.
+
+![The Weeknd Analytics Pro — Discography Evolution](screenshots/dashboard-evolution.png)
+
+### 3. Listening Behaviour Deep Dive
+
+Investigate the relationship between plays and listeners, track popularity by album position, catalogue distribution, and performance differences between solo and collaborative tracks.
+
+![The Weeknd Analytics Pro — Listening Behaviour Deep Dive](screenshots/dashboard-deep-dive.png)
+
+**[🚀 Launch The Weeknd Analytics Pro](https://weekndanalyticspro.base44.app/)**
 
 ## 🎯 Project Objectives
 
@@ -34,22 +56,22 @@ The goal is to understand how The Weeknd's discography has evolved over time, ho
 | Data visualisation libraries | Generating charts and analytical visuals |
 | HTML | Web interface and dashboard presentation |
 | Base44 | Building and deploying the interactive web application |
-| CSV | Storing raw, processed, and analytical datasets |
+| CSV | Storing processed and analytical datasets |
 | Git & GitHub | Version control and project documentation |
 
 ## 🔄 Data Pipeline
 
-The repository contains scripts for different stages of the data pipeline, from collecting music data to producing analysis-ready datasets and visualisations.
+The project follows a data workflow that moves from collecting music data to preparing analytical datasets and presenting insights.
 
 1. **Data collection:** Retrieve available music metadata and listening statistics from Spotify and Last.fm.
-2. **Data preparation:** Organise releases and tracks into structured datasets for further analysis.
+2. **Data preparation:** Organise releases and tracks into structured datasets.
 3. **Data validation and enrichment:** Audit track records, reconcile identifiers where possible, and prepare additional metadata.
 4. **Dataset construction:** Generate track-level, album-level, and collaborator summary datasets.
 5. **Exploratory data analysis:** Investigate trends and relationships across tracks, albums, and release periods.
-6. **Visualisation:** Generate charts that communicate the analytical findings.
-7. **Dashboard deployment:** Present the results through the live web application.
+6. **Data visualisation:** Generate charts to communicate analytical findings.
+7. **Dashboard deployment:** Present the results through an interactive web application.
 
-### Key repository files
+### Key Repository Files
 
 | File or directory | Purpose |
 |---|---|
@@ -69,11 +91,11 @@ The repository contains scripts for different stages of the data pipeline, from 
 | `weeknd_collaborator_summary.csv` | Collaborator summary data |
 | `weeknd_lastfm_track_matches_v5.csv` | Last.fm track-matching dataset |
 
-*File purposes are inferred from their names and repository structure; refer to each script for its exact implementation.*
+*File purposes are based on the repository structure and filenames. Refer to individual scripts for their exact implementation.*
 
-## 📊 Analytical Areas
+## 📈 Analytical Areas
 
-### 1. Discography and Release Trends
+### 1. Discography & Release Trends
 
 - Number of releases across different years.
 - Track counts and album sizes.
@@ -81,23 +103,23 @@ The repository contains scripts for different stages of the data pipeline, from 
 - Changes in average track duration over time.
 - Album runtime trends.
 
-### 2. Track Popularity and Listening Behaviour
+### 2. Track Popularity & Listening Behaviour
 
 - Most-played tracks based on available Last.fm playcount data.
 - Comparisons between playcounts and listener counts.
-- Estimated replay behaviour using plays relative to listeners.
+- Replay factor using plays relative to listeners.
 - Most-played tracks within individual albums.
 - Explicit tracks as a proportion of the catalogue.
 
 ### 3. Album Performance
 
 - Comparison of album-level listening engagement.
-- Most popular albums according to the selected listening metrics.
+- Most popular albums according to selected listening metrics.
 - Estimated listening time based on track durations and playcounts.
 - Concentration of plays among an album's most popular tracks.
 - Identification of potential hits and less-played album tracks.
 
-### 4. Collaborations and Featured Artists
+### 4. Collaborations & Featured Artists
 
 - Collaborators appearing across The Weeknd's discography.
 - Solo tracks versus featured tracks.
@@ -111,7 +133,7 @@ The repository contains scripts for different stages of the data pipeline, from 
 - Common words in song titles.
 - Relationships between selected track characteristics and popularity.
 
-## 📈 Metrics and Analytical Methods
+## 📐 Metrics & Analytical Methods
 
 Beyond descriptive statistics, the project explores derived metrics to make comparisons more meaningful.
 
@@ -121,37 +143,47 @@ Beyond descriptive statistics, the project explores derived metrics to make comp
 | Average track duration | Examines changes in song length over time |
 | Explicit-track share | Measures the proportion of tracks marked explicit |
 | Playcount-to-listener ratio | Provides a rough indicator of repeat listening |
-| Estimated listening time | Estimates total listening duration using track duration and playcount |
+| Estimated listening time | Estimates listening duration using track duration and playcount |
 | Top-track play concentration | Examines how much of an album's listening activity is concentrated in its most-played tracks |
 
-Derived metrics depend on the availability, completeness, and comparability of the underlying data. Estimated listening time and playcount-to-listener ratios should not be interpreted as exact individual listening behaviour.
+Derived metrics depend on the availability and quality of the underlying data. For example, the playcount-to-listener ratio is an aggregate indicator, not a measurement of individual listening behaviour.
 
-## 💡 Key Questions
+## 💡 Key Analytical Questions
 
-The analysis is designed to investigate questions such as:
+The analysis investigates questions such as:
 
 - Which tracks have the highest recorded playcounts?
 - Do tracks with more listeners also have higher playcounts?
 - Which albums attract the greatest listening engagement?
 - How has The Weeknd's release frequency changed throughout his career?
-- Are album plays concentrated among a few major hits?
+- Are album plays concentrated among a few major hits or distributed across the catalogue?
 - How have track duration and album runtime evolved?
 - Which collaborators appear most frequently?
 - How do solo tracks and featured tracks compare in performance?
 
-## 🖥️ Interactive Dashboard
+## 🖥️ Interactive Web Application
 
-The results are presented through **The Weeknd Analytics Pro**, a dedicated web application designed to make the analysis accessible and easy to explore.
+The analysis is presented through **The Weeknd Analytics Pro**, a dedicated web application that brings the project's analytical views together in an interactive format.
 
-**[Launch The Weeknd Analytics Pro →](https://weekndanalyticspro.base44.app/)**
+The dashboard includes views covering:
 
-The dashboard serves as the presentation layer for the project, turning processed music data into a more accessible analytical experience.
+- Popularity and track rankings.
+- Album runtime and catalogue evolution.
+- Release gaps and yearly release patterns.
+- Track duration versus playcount.
+- Plays versus unique listeners.
+- Album track-position performance.
+- Catalogue playcount distribution.
+- Solo versus collaborative tracks.
+- Explicit versus clean tracks.
 
-## 🚀 How to Run the Python Components
+**[🎧 Explore The Weeknd Analytics Pro](https://weekndanalyticspro.base44.app/)**
+
+## 🚀 Getting Started
 
 ### Prerequisites
 
-- Python 3.10 or later, subject to the versions supported by the dependencies.
+- Python 3.10 or later, subject to dependency compatibility.
 - API credentials for the data sources used by the collection scripts.
 - The required Python packages.
 
@@ -164,59 +196,57 @@ git clone https://github.com/surapureddyhasini/weeknd-spotify-lastfm-analysis.gi
 cd weeknd-spotify-lastfm-analysis
 ```
 
-Create and activate a virtual environment:
+Create a virtual environment:
 
 ```bash
 python -m venv .venv
 ```
 
-On Windows:
+Activate it on Windows:
 
 ```bash
 .venv\Scripts\activate
 ```
 
-Install dependencies:
+Install the dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Configure the required API credentials using the method expected by the relevant scripts. Avoid committing API keys or other secrets to GitHub.
+Configure the API credentials required by the relevant scripts. Do not commit API keys or other secrets to GitHub.
 
-Run the appropriate collection or analysis script after checking its configuration and prerequisites.
+Before running the pipeline, review the individual scripts and their input requirements to determine the correct execution order.
 
-*The exact execution order depends on the script dependencies and the current state of the datasets. Consult the individual scripts before running the complete pipeline.*
+## ⚠️ Data Considerations & Limitations
 
-## 📚 Limitations and Data Considerations
-
-- Spotify and Last.fm expose different types of music and listening metrics.
-- Last.fm playcounts and listener counts should not be treated as Spotify stream counts or unique Spotify listeners.
+- Spotify and Last.fm provide different types of music and listening metrics.
+- Last.fm playcounts and listener counts should not be interpreted as Spotify stream counts or unique Spotify listeners.
 - Track matching and metadata availability may vary between sources.
-- Missing identifiers and inconsistent track metadata can affect joins and coverage.
-- Estimated listening time is a derived approximation rather than a measure of verified listening duration.
+- Missing identifiers and inconsistent track metadata can affect dataset joins and coverage.
+- Estimated listening time is a derived approximation, not a measure of verified listening duration.
+- Results depend on the available data and the definitions used for each metric.
 
-These considerations are important when interpreting the visualisations and drawing conclusions.
+These limitations should be considered when interpreting the visualisations and drawing conclusions.
 
 ## 🌱 Future Improvements
 
-- Automate and schedule dataset refreshes.
-- Strengthen API error handling, retries, and data validation.
-- Improve track matching and metadata coverage.
-- Add reproducible pipeline execution and automated data quality checks.
+- Automate dataset refreshes and improve API error handling.
+- Strengthen track matching, metadata coverage, and data validation.
+- Introduce reproducible pipeline execution and automated data quality checks.
 - Expand comparative analysis across albums and release periods.
 - Improve dashboard filtering and track-level exploration.
 - Document key analytical findings with supporting visualisations.
 
-## 👨‍💻 About
+## 👨‍💻 About This Project
 
-This is an independent passion project built to develop my practical skills in data science, data engineering, and analytical storytelling.
+This is an independent passion project built to develop my practical skills in **data science, data engineering, and analytical storytelling**.
 
-It combines my interest in music with hands-on experience in API-based data collection, Python data processing, dataset construction, exploratory analysis, visualisation, and dashboard deployment.
+It combines my interest in music with hands-on experience in API-based data collection, Python data processing, dataset construction, exploratory data analysis, visualisation, and dashboard deployment.
 
-The project demonstrates my approach to turning a personal interest into a structured data analytics workflow, from collecting and preparing data to communicating insights through a web application.
+The project demonstrates how a personal interest can be transformed into a structured analytics workflow, from collecting and preparing data to investigating patterns and communicating insights through an interactive web application.
 
-**Live project:** [The Weeknd Analytics Pro](https://weekndanalyticspro.base44.app/)
+**Live Dashboard:** [The Weeknd Analytics Pro](https://weekndanalyticspro.base44.app/)
 
 ---
 
